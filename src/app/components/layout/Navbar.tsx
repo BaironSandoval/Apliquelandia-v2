@@ -159,7 +159,7 @@ export default function Navbar() {
               onClick={() =>
                 sendWhatsApp("573209908045", "Hola, quiero cotizar un servicio")
               }
-              className="bg-[#AD8330] text-white px-6 py-3 mt-4 rounded-sm"
+              className="bg-[#AD8330] text-white px-6 py-3 mt-4"
             >
               Cotizar
             </button>

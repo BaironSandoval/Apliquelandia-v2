@@ -5,13 +5,13 @@ const services = [
     title: "Bordado Industrial",
     image: "/services/bordado.jpg",
     description:
-      "Bordado profesional para uniformes, gorras, chaquetas y prendas corporativas con acabados de alta precisión.",
+      "Bordado profesional para uniformes, chaquetas y prendas con acabados de alta precisión.",
   },
   {
     title: "Impresión DTF",
     image: "/services/dtf.jpg",
     description:
-      "Impresión textil de alta calidad con colores vibrantes y gran durabilidad para cualquier tipo de prenda.",
+      "Impresión DTF de alta calidad con colores vibrantes y gran durabilidad para cualquier tipo de prenda.",
   },
   {
     title: "Sublimación",

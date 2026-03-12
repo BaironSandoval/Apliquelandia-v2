@@ -33,7 +33,7 @@ export default function About() {
           <div className="w-16 h-[2px] bg-[#AD8330] mt-4"></div>
 
           <p className="font-poppins text-gray-600 mt-6 text-sm leading-relaxed">
-            Somos una empresa especializada en producción textil y
+            Somos una empresa especializada en producción de apliques textiles y
             personalización de prendas para empresas, marcas y
             emprendedores. Trabajamos con tecnología profesional para
             ofrecer bordados, impresión DTF, sublimación y corte láser

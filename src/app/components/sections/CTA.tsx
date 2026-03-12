@@ -11,7 +11,7 @@ export default function CTA() {
         <h2 className="font-playfair text-3xl md:text-4xl leading-tight">
           ¿Listo para crear tu
           <br />
-          próximo proyecto textil?
+          próximo proyecto de apliques textiles?
         </h2>
 
         <p className="font-poppins text-sm md:text-base text-gray-300 mt-6 max-w-2xl mx-auto">

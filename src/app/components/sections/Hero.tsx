@@ -33,9 +33,9 @@ export default function Hero() {
         <div className="max-w-xl space-y-6">
 
               <h1 className="font-playfair text-[#0B1F2A] text-4xl md:text-5xl lg:text-6xl leading-tight tracking-[0.03em]">
-                Producción Textil
+                Producción de Apliques Textiles
                 <br />
-                Profesional
+                Profesionales
               </h1>
 
               <p className="font-poppins text-[#2C2F33] mt-5 text-sm md:text-base tracking-[0.25em]">

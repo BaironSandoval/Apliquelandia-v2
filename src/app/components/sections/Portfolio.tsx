@@ -2,16 +2,8 @@ import Image from "next/image"
 
 const portfolio = [
   {
-    title: "Bordado Corporativo",
-    image: "/portfolio/bordado1.jpg",
-  },
-  {
-    title: "Gorras Bordadas",
-    image: "/portfolio/gorras.jpg",
-  },
-  {
-    title: "Impresión DTF",
-    image: "/portfolio/dtf.jpg",
+    title: "Bordado Industrial",
+    image: "/portfolio/bordado2.jpg",
   },
   {
     title: "Sublimación Textil",
@@ -20,10 +12,6 @@ const portfolio = [
   {
     title: "Grabado Láser",
     image: "/portfolio/laser.jpg",
-  },
-  {
-    title: "Producción Textil",
-    image: "/portfolio/produccion.jpg",
   },
 ]
 

@@ -28,7 +28,7 @@ export default function Footer() {
           </div>
 
           <p className="font-poppins text-sm text-gray-400 leading-relaxed mb-6">
-            Producción textil profesional especializada en bordado,
+            Producción de apliques textiles, profesionales y  especializados en bordado,
             impresión DTF, sublimación y corte láser para empresas
             y emprendedores.
           </p>

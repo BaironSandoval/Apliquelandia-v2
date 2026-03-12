@@ -14,7 +14,7 @@ const steps = [
   {
     title: "Producción",
     description:
-      "Fabricamos tu pedido con maquinaria profesional de bordado, DTF, sublimación o láser.",
+      "Fabricamos tu pedido con maquinaria profesional.",
   },
   {
     title: "Entrega final",
