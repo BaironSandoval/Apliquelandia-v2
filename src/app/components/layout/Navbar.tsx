@@ -72,7 +72,7 @@ export default function Navbar() {
 
             <div className="hidden md:block">
               <button
-                className="bg-[#AD8330] text-white px-5 py-2 text-[13px] tracking-wide rounded-sm hover:bg-[#9b7429] transition"
+                className="bg-[#AD8330] text-white px-5 py-2 text-[13px] tracking-wide hover:bg-[#9b7429] transition"
                 onClick={() =>
                   sendWhatsApp(
                     "573001234567",
