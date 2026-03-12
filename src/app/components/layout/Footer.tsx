@@ -137,7 +137,7 @@ export default function Footer() {
         </div>
       </div>
 
-      {/* LINEA */}
+      {/*LINEA*/}
 
       <div className="border-t border-white/10 mt-12 pt-6 text-center">
         <p className="font-poppins text-xs text-gray-500">
